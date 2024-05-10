@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-portalcrm-dev-a64e8-authRole",
+      "UnauthRoleArn": "arn:aws:iam::523992386502:role/amplify-portalcrm-dev-a64e8-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::523992386502:role/amplify-portalcrm-dev-a64e8-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-portalcrm-dev-a64e8-deployment",
+      "UnauthRoleName": "amplify-portalcrm-dev-a64e8-unauthRole",
+      "StackName": "amplify-portalcrm-dev-a64e8",
+      "StackId": "arn:aws:cloudformation:us-east-1:523992386502:stack/amplify-portalcrm-dev-a64e8/f1dc2240-0e6b-11ef-a89f-12dba2b3dd4d",
+      "AmplifyAppId": "d27w92buahuzun"
+    },
+    "categories": {
+      "auth": {
+        "portalcrm60eaac8460eaac84": {}
+      }
+    }
+  }
+}
